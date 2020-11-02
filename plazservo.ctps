@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="plazservo.ppr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="30"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulazservo.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="30"/>
+        <CursorPos X="3" Y="23"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="13">
+      <Position>
+        <Filename Value="ulazservo.pas"/>
+        <Caret Line="117" Column="40" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazservo.pas"/>
+        <Caret Line="116" Column="40" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazservo.pas"/>
+        <Caret Line="115" Column="40" TopLine="99"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazservo.pas"/>
+        <Caret Line="114" Column="40" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazservo.pas"/>
+        <Caret Line="113" Column="40" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazservo.pas"/>
+        <Caret Line="112" Column="40" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazservo.pas"/>
+        <Caret Line="108" Column="2" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazservo.pas"/>
+        <Caret Line="27" Column="6" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazservo.pas"/>
+        <Caret Line="114" Column="49" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazservo.pas"/>
+        <Caret Line="113" Column="49" TopLine="99"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazservo.pas"/>
+        <Caret Line="112" Column="49" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazservo.pas"/>
+        <Caret Line="111" Column="49" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazservo.pas"/>
+        <Caret Line="18" Column="4" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazservo.pas"/>
+        <Caret Line="33" TopLine="21"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
